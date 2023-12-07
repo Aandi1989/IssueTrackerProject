@@ -10,6 +10,7 @@ const inter = Inter({
   subsets: ["latin"],
   variable: '--font-inter',
 });
+// шрифт не применился, хотя все сделано по примеру
 
 export const metadata: Metadata = {
   title: "Create Next App",
